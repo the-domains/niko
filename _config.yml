@@ -1,0 +1,23 @@
+name: Niko
+favicon: null
+layout_spectrum: 0.15440996084362268
+typography_spectrum: 0.6357839049305767
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7389028742909431
+  lightness: 0.6070783210452646
+  saturation: 0.7371060368604958
+  rhythmicContrast: 0.534315915312618
+purpose: []
