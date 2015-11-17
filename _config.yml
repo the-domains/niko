@@ -1,6 +1,6 @@
 name: Niko
 favicon: null
-layout_spectrum: 0.15440996084362268
+layout_spectrum: 0.40481
 typography_spectrum: 0.6357839049305767
 cta:
   domain: null
@@ -15,7 +15,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#ffefe2'
+    - '#24181a'
+    - '#886953'
+    - '#d3b398'
+    - '#54352c'
   brandStrength: 0.7389028742909431
   lightness: 0.6070783210452646
   saturation: 0.7371060368604958
