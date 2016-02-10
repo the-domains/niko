@@ -1,29 +1,41 @@
-name: Niko
-favicon: null
-layout_spectrum: 0.89649
-typography_spectrum: 0.86876
 title: 'Niko Jasniewicz - Musician, Performer, Educator, Designer '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.7371060368604958
+  brandStrength: 0.7389028742909431
+  rhythmicContrast: 0.534315915312618
   brandColors:
     - '#ffefe2'
     - '#24181a'
     - '#886953'
     - '#d3b398'
     - '#54352c'
-  brandStrength: 0.7389028742909431
   lightness: 0.6070783210452646
-  saturation: 0.7371060368604958
-  rhythmicContrast: 0.534315915312618
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Niko
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.86876
+layout_spectrum: 0.4989259
